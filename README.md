@@ -1,4 +1,7 @@
-# test coverage for  [masonry-layout (v4.1.1)](http://masonry.desandro.com)  [![npm package](https://img.shields.io/npm/v/npmtest-masonry-layout.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-masonry-layout) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-masonry-layout.svg)](https://travis-ci.org/npmtest/node-npmtest-masonry-layout)
+# npmtest-masonry-layout
+
+#### basic test coverage for  [masonry-layout (v4.1.1)](http://masonry.desandro.com)  [![npm package](https://img.shields.io/npm/v/npmtest-masonry-layout.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-masonry-layout) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-masonry-layout.svg)](https://travis-ci.org/npmtest/node-npmtest-masonry-layout)
+
 #### Cascading grid layout library
 
 [![NPM](https://nodei.co/npm/masonry-layout.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/masonry-layout)
